@@ -26,7 +26,7 @@
 }
 
 .book {
-  background-color: rgb(49, 49, 49);
+  background-color: rgb(103, 159, 243);
   border-radius: 14px;
   padding: 10px;
   width: 250px;
